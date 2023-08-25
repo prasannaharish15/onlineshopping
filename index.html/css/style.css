@@ -1,0 +1,98 @@
+img{
+    display: inline;
+    height: 165.312px;
+    overflow-clip-margin: content-box;
+    width: 110px;
+
+    
+}
+div#zero{
+    text-align: center;
+}
+div#abc{
+    padding-left: 1100px;
+    position: absolute;
+    bottom: auto ;
+    top: 0 ;
+    padding-top: 80px
+
+
+}
+div#zero{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+div#buy-button{
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+div#move-top{
+    padding-left: 600px;
+    position: absolute;
+    bottom: auto ;
+    top: 0 ;
+    padding-top: 80px;
+    
+}
+div#F{
+    padding-left: 1200px;
+    padding-top: 5px;
+
+}
+div#s{
+    padding-left: 900px;
+    position: absolute;
+    bottom: auto ;
+    top: 0 ;
+    padding-top: 505px;
+
+}
+div#o{
+    text-align: right;
+    padding-right: 100px
+}
+div#t{
+    padding-left: 1200px;
+    padding-top: 10px;
+
+}
+
+div#f{
+    padding-left: 900px;
+    position: absolute;
+    bottom: auto ;
+    top: 0 ;
+    padding-top: 80px;
+
+}
+div#w{
+    padding-left: 100px;
+   
+
+}
+div#four{
+    padding-left: 100px;
+
+}
+div#five{
+    padding-left: 600px;
+    position: absolute;
+    bottom: auto ;
+    top: 0 ;
+    padding-top: 450px;
+    
+}
+div#six{
+    padding-left: 1100px;
+    position: absolute;
+    bottom: auto ;
+    top: 0 ;
+    padding-top: 450px;
+
+}
